@@ -1,0 +1,75 @@
+*{
+    margin: 30px;
+    padding: auto;
+}
+p{
+    display: block;
+    color: red;
+    background-color: black;
+    padding: 10px;
+}
+p2{
+    display: block;
+    color: rgb(33, 250, 33);
+    background-color: black;
+    padding: 10px;
+    border: 5px gold;
+}
+p3{
+    display: block;
+    color: aqua;
+    background-color: black;
+    padding: 10px;
+}
+p4{
+    display: block;
+    color: orange;
+    background-color: black;
+    padding: 10px;
+}
+p5{
+    display: block;
+    color: tan;
+    background-color: black;
+    padding: 10px;
+}
+p6{
+    display: block;
+    color: rgb(183, 13, 188);
+    background-color: black;
+    padding: 10px;
+}
+p7{
+    display: block;
+    color: pink;
+    background-color: black;
+    padding: 10px;
+}
+p8{
+    display: block;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+p9{
+    display: block;
+    color: azure;
+    background-color: black;
+    padding: 10px;
+}
+p10{
+    display: block;
+    color: rgb(239, 21, 145);
+    background-color: black;
+    padding: 10px;
+}
+h1{
+    color: rgb(255, 183, 0);
+    padding: 10px;
+}
+.header{
+    background-color: rgb(128, 0, 85);
+    height: 50px;
+    width: 100%;
+}
+
